@@ -1,0 +1,20 @@
+Shift - A - Armature - Single Bone : Cursore Bone yani kemik ekler.
+
+E Tuşu : Bone'nin ucuna yeni bir kemik ekler.
+
+Bone silmek : Silmek istediğimiz boneye tıklayıp, "Delete Selected Bone(s)" seçeneği seçilir.
+
+Shift - D : Kemiği kopyalamak.
+
+*** Birleştirilmiş boneyi hiyerarşiden ayırmak için Edit Mode geçiyoruz, ayırmak istediğimiz boneyi seçip "Y" tuşuna basıyoruz.
+
+*** Ctrl - P : Bir kemiği başka bir kemiğe bağlamak istediğimizde kullanılır, Edit mode geçip bağlanacak kemiği seçiyoruz, sonra bağlamak istediğimiz kemiğin ucuna tıklayarak Ctrl-P ye basıyoruz. Oluşturulan bağlantıyı Alt - P ile koparabiliriz.
+
+*** Oluşturulan kemiği bölmek istersek, kemiğe tıklayarak Edit Mode geçiyoruz.Daha sonra kemiği seçerek sağ tıklıyoruz ve "Subdivede" seçeneğini seçiyoruz.
+
+*** Kemiklerin kendi içinde rotate olması için Indivual Origins seçiyoruz.
+
+*** Parmakları oluştururken "Boundig Box Center" işaretli olmalı.
+
+
+
