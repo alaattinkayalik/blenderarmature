@@ -1,0 +1,12 @@
+*** Edit Mode geçerek, armatürü seçiyoruz. Shift - D ile kopya yapıyoruz. Sağ tıklayarak oluştuğu yere geri bırakıyoruz.
+Hangi yönde mirror etmek istiyorsak, örneğin "X" yönünde mirror etmek istersek. "X Global" seçeneğine tıklıyoruz.
+
+*** Bounding Box Center seçeneği kutucuk şeklinde ele alır, ve armatürün merkezinden boneyi ekler.
+
+*** 3D Cursor seçeneği Cursor neredeyse ona baz alarak boneyi ekler.
+
+*** Ctrl - M ve "X"'e basarak X yönünde konumlandırır.
+
+*** 3D Cursoru sıfır noktasına almak için, Shift - S - Cursor to World Origin seçiyoruz.
+
+*** Mirror ile simetri arasındaki fark, kopyalanan armatürü hareket ettirdiğimizde ana armatürün hareket etmemesidir.
