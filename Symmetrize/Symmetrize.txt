@@ -1,0 +1,9 @@
+*** Karakteri konumlandırırken "X" çizgisinin hizasında olmalı, karakter bize bakmalı.
+
+*** Symmetrize kullanacak isek, kemiklere isim verirken ".L" veya ".R" harflerini eklememiz gerekmektedir.
+
+*** Symmetrize yapacak isek kemiklerin hepsini seçtikten sonra sağ tıklayarak "Symmetrize" seçeneğini seçeriz kemikler simetrik olarak kopyalanır.
+
+*** Symmetrize Cursor noktasına göre çevirme işlemi yapar.
+
+*** Edit mode üzerinde bulunan sağ üstteki bölümde "X" yazan kutucuğa tıklarsak kopyalanan bölümle aynı anda hareket sağlanır.
